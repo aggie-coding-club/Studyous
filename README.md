@@ -51,6 +51,7 @@ For questions or feedback, please reach out to us on the TAMU Coding Club Discor
       </a>
     </td>
 
+  <tr>
     <td align="center">
       <a href="https://github.com/ReverseCard2">
         <img src="https://avatars.githubusercontent.com/ReverseCard2?v=4" width="100px;" alt="Nam Le"/><br />
@@ -58,6 +59,7 @@ For questions or feedback, please reach out to us on the TAMU Coding Club Discor
       </a>
     </td>
   </tr>
+</table>
 
 Class Discussion Page
 =======
