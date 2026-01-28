@@ -1,0 +1,20 @@
+export const TAMU = [
+    //CSCE
+    { code: "CSCE110", name: "Programming I"},
+    { code: "CSCE111", name: "Introduction to Computer Science Concepts and Programming"},
+    { code: "CSCE120", name: "Program Design and Concepts"},
+    { code: "CSCE121", name: "Introduction to Program Design and Concepts" },
+    { code: "CSCE181", name: "Introduction to Computing"},
+    { code: "CSCE201", name: "Fundamentals of Cybersecurity"},
+    { code: "CSCE206", name: "Structured Programming in C"},
+    { code: "CSCE221", name: "Data Structures and Algorithms" },
+    { code: "CSCE222", name: "Discrete Structures for Computing" },
+    { code: "CSCE285", name: "Directed Studies"},
+    { code: "CSCE289", name: "Special Topics in..."},
+    { code: "CSCE291", name: "Research"},
+    { code: "CSCE305", name: "Computational Data Science"},
+    { code: "CSCE310", name: "Database Systems"},
+    { code: "CSCE312", name: "Computer Organization"},
+    { code: "CSCE313", name: "Introduction to Computer Systems"},
+    { code: "CSCE314", name: "Programming Languages"},
+];
