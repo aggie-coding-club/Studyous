@@ -1,4 +1,4 @@
-# Student-Study-Streams
+# Studyous
 
 # 📚 TAMU Studys - Collaborative Learning Platform for Texas A&M Students
 
