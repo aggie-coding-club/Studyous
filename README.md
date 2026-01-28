@@ -42,11 +42,22 @@ For questions or feedback, please reach out to us on the TAMU Coding Club Discor
 
 # 👥 Contributors
 
-<table> <tr> <td align="center"><a href="https://github.com/PranavUttarkar"><img src="https://avatars.githubusercontent.com/PranavUttarkar?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Uttarkar</b></sub></a><br /></td> <table> <tr> <td align="center"><a href="https://github.com/PranavUttarkar"><img src="https://avatars.githubusercontent.com/PranavUttarkar?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Uttarkar</b></sub></a><br /></td>
-📷 Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PranavUttarkar">
+        <img src="https://avatars.githubusercontent.com/PranavUttarkar?v=4" width="100px;" alt="Pranav Uttarkar"/><br />
+        <sub><b>Pranav Uttarkar</b></sub>
+      </a>
+    </td>
 
-<table> <tr> <td align="center"><a href="https://github.com/ReverseCard2">Nam Le</tr></table>
-Homepage
+    <td align="center">
+      <a href="https://github.com/ReverseCard2">
+        <img src="https://avatars.githubusercontent.com/ReverseCard2?v=4" width="100px;" alt="Nam Le"/><br />
+        <sub><b>Nam Le</b></sub>
+      </a>
+    </td>
+  </tr>
 
 Class Discussion Page
 =======
